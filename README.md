@@ -1,2 +1,2 @@
-20223153 Choiyeonwoo
+ Choiyeonwoo 20223153
 Kookmin Univ. SW.

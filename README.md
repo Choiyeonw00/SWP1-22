@@ -1,3 +1,2 @@
-Choiyeonwoo
-20223153
-Kookmin Univ. SW
+20223153   Choiyeonwoo
+Kookmin Univ. SW.
